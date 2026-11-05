@@ -14,3 +14,4 @@ git_python_cheatsheet.md
 .pytest_cache/
 media/
 staticfiles/
+pyproject.toml
